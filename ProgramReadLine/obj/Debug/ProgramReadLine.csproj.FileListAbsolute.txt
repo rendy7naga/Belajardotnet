@@ -1,0 +1,16 @@
+C:\KERJA\TimeExpanse\APP\IDU_TIMEEXPENSE_APP_API\ProgramReadLine\bin\Debug\ProgramReadLine.exe.config
+C:\KERJA\TimeExpanse\APP\IDU_TIMEEXPENSE_APP_API\ProgramReadLine\bin\Debug\ProgramReadLine.exe
+C:\KERJA\TimeExpanse\APP\IDU_TIMEEXPENSE_APP_API\ProgramReadLine\bin\Debug\ProgramReadLine.pdb
+C:\KERJA\TimeExpanse\APP\IDU_TIMEEXPENSE_APP_API\ProgramReadLine\obj\Debug\ProgramReadLine.csproj.AssemblyReference.cache
+C:\KERJA\TimeExpanse\APP\IDU_TIMEEXPENSE_APP_API\ProgramReadLine\obj\Debug\ProgramReadLine.csproj.SuggestedBindingRedirects.cache
+C:\KERJA\TimeExpanse\APP\IDU_TIMEEXPENSE_APP_API\ProgramReadLine\obj\Debug\ProgramReadLine.csproj.CoreCompileInputs.cache
+C:\KERJA\TimeExpanse\APP\IDU_TIMEEXPENSE_APP_API\ProgramReadLine\obj\Debug\ProgramReadLine.exe
+C:\KERJA\TimeExpanse\APP\IDU_TIMEEXPENSE_APP_API\ProgramReadLine\obj\Debug\ProgramReadLine.pdb
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramReadLine\bin\Debug\ProgramReadLine.exe.config
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramReadLine\bin\Debug\ProgramReadLine.exe
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramReadLine\bin\Debug\ProgramReadLine.pdb
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramReadLine\obj\Debug\ProgramReadLine.csproj.AssemblyReference.cache
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramReadLine\obj\Debug\ProgramReadLine.csproj.SuggestedBindingRedirects.cache
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramReadLine\obj\Debug\ProgramReadLine.csproj.CoreCompileInputs.cache
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramReadLine\obj\Debug\ProgramReadLine.exe
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramReadLine\obj\Debug\ProgramReadLine.pdb

@@ -1,0 +1,16 @@
+C:\KERJA\TimeExpanse\APP\IDU_TIMEEXPENSE_APP_API\ProgramSwitchStatement\obj\Debug\ProgramSwitchStatement.csproj.AssemblyReference.cache
+C:\KERJA\TimeExpanse\APP\IDU_TIMEEXPENSE_APP_API\ProgramSwitchStatement\obj\Debug\ProgramSwitchStatement.csproj.SuggestedBindingRedirects.cache
+C:\KERJA\TimeExpanse\APP\IDU_TIMEEXPENSE_APP_API\ProgramSwitchStatement\obj\Debug\ProgramSwitchStatement.csproj.CoreCompileInputs.cache
+C:\KERJA\TimeExpanse\APP\IDU_TIMEEXPENSE_APP_API\ProgramSwitchStatement\bin\Debug\ProgramSwitchStatement.exe.config
+C:\KERJA\TimeExpanse\APP\IDU_TIMEEXPENSE_APP_API\ProgramSwitchStatement\bin\Debug\ProgramSwitchStatement.exe
+C:\KERJA\TimeExpanse\APP\IDU_TIMEEXPENSE_APP_API\ProgramSwitchStatement\bin\Debug\ProgramSwitchStatement.pdb
+C:\KERJA\TimeExpanse\APP\IDU_TIMEEXPENSE_APP_API\ProgramSwitchStatement\obj\Debug\ProgramSwitchStatement.exe
+C:\KERJA\TimeExpanse\APP\IDU_TIMEEXPENSE_APP_API\ProgramSwitchStatement\obj\Debug\ProgramSwitchStatement.pdb
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramSwitchStatement\bin\Debug\ProgramSwitchStatement.exe.config
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramSwitchStatement\bin\Debug\ProgramSwitchStatement.exe
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramSwitchStatement\bin\Debug\ProgramSwitchStatement.pdb
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramSwitchStatement\obj\Debug\ProgramSwitchStatement.csproj.AssemblyReference.cache
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramSwitchStatement\obj\Debug\ProgramSwitchStatement.csproj.SuggestedBindingRedirects.cache
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramSwitchStatement\obj\Debug\ProgramSwitchStatement.csproj.CoreCompileInputs.cache
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramSwitchStatement\obj\Debug\ProgramSwitchStatement.exe
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramSwitchStatement\obj\Debug\ProgramSwitchStatement.pdb

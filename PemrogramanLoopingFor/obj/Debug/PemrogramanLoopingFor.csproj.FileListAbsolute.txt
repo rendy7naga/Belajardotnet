@@ -1,0 +1,8 @@
+C:\KERJA\LearnBasic\LearnFromYoutube\PemrogramanLoopingFor\bin\Debug\PemrogramanLoopingFor.exe.config
+C:\KERJA\LearnBasic\LearnFromYoutube\PemrogramanLoopingFor\bin\Debug\PemrogramanLoopingFor.exe
+C:\KERJA\LearnBasic\LearnFromYoutube\PemrogramanLoopingFor\bin\Debug\PemrogramanLoopingFor.pdb
+C:\KERJA\LearnBasic\LearnFromYoutube\PemrogramanLoopingFor\obj\Debug\PemrogramanLoopingFor.csproj.AssemblyReference.cache
+C:\KERJA\LearnBasic\LearnFromYoutube\PemrogramanLoopingFor\obj\Debug\PemrogramanLoopingFor.csproj.SuggestedBindingRedirects.cache
+C:\KERJA\LearnBasic\LearnFromYoutube\PemrogramanLoopingFor\obj\Debug\PemrogramanLoopingFor.csproj.CoreCompileInputs.cache
+C:\KERJA\LearnBasic\LearnFromYoutube\PemrogramanLoopingFor\obj\Debug\PemrogramanLoopingFor.exe
+C:\KERJA\LearnBasic\LearnFromYoutube\PemrogramanLoopingFor\obj\Debug\PemrogramanLoopingFor.pdb

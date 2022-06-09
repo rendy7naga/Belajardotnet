@@ -1,0 +1,16 @@
+C:\KERJA\TimeExpanse\APP\IDU_TIMEEXPENSE_APP_API\ProgramIfElse\obj\Debug\ProgramIfElse.csproj.AssemblyReference.cache
+C:\KERJA\TimeExpanse\APP\IDU_TIMEEXPENSE_APP_API\ProgramIfElse\obj\Debug\ProgramIfElse.csproj.SuggestedBindingRedirects.cache
+C:\KERJA\TimeExpanse\APP\IDU_TIMEEXPENSE_APP_API\ProgramIfElse\obj\Debug\ProgramIfElse.csproj.CoreCompileInputs.cache
+C:\KERJA\TimeExpanse\APP\IDU_TIMEEXPENSE_APP_API\ProgramIfElse\bin\Debug\ProgramIfElse.exe.config
+C:\KERJA\TimeExpanse\APP\IDU_TIMEEXPENSE_APP_API\ProgramIfElse\bin\Debug\ProgramIfElse.exe
+C:\KERJA\TimeExpanse\APP\IDU_TIMEEXPENSE_APP_API\ProgramIfElse\bin\Debug\ProgramIfElse.pdb
+C:\KERJA\TimeExpanse\APP\IDU_TIMEEXPENSE_APP_API\ProgramIfElse\obj\Debug\ProgramIfElse.exe
+C:\KERJA\TimeExpanse\APP\IDU_TIMEEXPENSE_APP_API\ProgramIfElse\obj\Debug\ProgramIfElse.pdb
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramIfElse\bin\Debug\ProgramIfElse.exe.config
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramIfElse\bin\Debug\ProgramIfElse.exe
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramIfElse\bin\Debug\ProgramIfElse.pdb
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramIfElse\obj\Debug\ProgramIfElse.csproj.AssemblyReference.cache
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramIfElse\obj\Debug\ProgramIfElse.csproj.SuggestedBindingRedirects.cache
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramIfElse\obj\Debug\ProgramIfElse.csproj.CoreCompileInputs.cache
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramIfElse\obj\Debug\ProgramIfElse.exe
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramIfElse\obj\Debug\ProgramIfElse.pdb
