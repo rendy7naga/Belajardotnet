@@ -1,0 +1,8 @@
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramArrayList\bin\Debug\ProgramArrayList.exe.config
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramArrayList\bin\Debug\ProgramArrayList.exe
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramArrayList\bin\Debug\ProgramArrayList.pdb
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramArrayList\obj\Debug\ProgramArrayList.csproj.AssemblyReference.cache
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramArrayList\obj\Debug\ProgramArrayList.csproj.SuggestedBindingRedirects.cache
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramArrayList\obj\Debug\ProgramArrayList.csproj.CoreCompileInputs.cache
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramArrayList\obj\Debug\ProgramArrayList.exe
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramArrayList\obj\Debug\ProgramArrayList.pdb

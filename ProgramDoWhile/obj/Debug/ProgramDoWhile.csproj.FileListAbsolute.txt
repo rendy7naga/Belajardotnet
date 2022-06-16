@@ -1,0 +1,8 @@
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramDoWhile\bin\Debug\ProgramDoWhile.exe.config
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramDoWhile\bin\Debug\ProgramDoWhile.exe
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramDoWhile\bin\Debug\ProgramDoWhile.pdb
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramDoWhile\obj\Debug\ProgramDoWhile.csproj.AssemblyReference.cache
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramDoWhile\obj\Debug\ProgramDoWhile.csproj.SuggestedBindingRedirects.cache
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramDoWhile\obj\Debug\ProgramDoWhile.csproj.CoreCompileInputs.cache
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramDoWhile\obj\Debug\ProgramDoWhile.exe
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramDoWhile\obj\Debug\ProgramDoWhile.pdb

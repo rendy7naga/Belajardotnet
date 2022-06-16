@@ -6,14 +6,31 @@ using System.Threading.Tasks;
 
 namespace PemrogramanLoopingFor
 {
-    internal class Program
+    class Program
     {
 
         static void Main(string[] args)
         {
-            int i = 0;
-            for (int i = 0; i < 10; i++) ;
-            Console.WriteLine(i + "Ini belajar pemrogaram Looping For");
+            string x;
+            int y;
+            Console.Write("Masukkan nama Universitas : ");
+            x =Console.ReadLine();
+            Console.Write("Masukkan jumlah fakultas : ");
+            y= Convert.ToInt16(Console.ReadLine());
+            string[] fakultas = new string[y]; 
+            Console.WriteLine("--------------------------------------------");
+            for (int i = 0; i < y; i++)
+            {
+                Console.Write("Masukkan nama Fakultas : ");
+                fakultas[i] = Console.ReadLine();
+                Console.WriteLine();
+            }
+            Console.WriteLine("--------------------------------------------");
+            Console.WriteLine("Selamat datang di Universitas " + x);
+            for (int i = 0; i < y ; i++)
+            {
+                Console.WriteLine("Fakultas : " + fakultas[i]);
+            }
         }
     }
 }

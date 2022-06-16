@@ -1,0 +1,15 @@
+1. Perulangan
+Looping While, Do While dll
+
+2. Collection
+
+https://www.codeproject.com/Articles/832189/List-vs-IEnumerable-vs-IQueryable-vs-ICollection-v
+
+3. OOP
+
+4. Condition 
+
+5. Linq
+
+6. Sql (Create, Insert, Update, Delete, Inner Join, Left Join, Right Join, Cross Join, Union, Union All)
+

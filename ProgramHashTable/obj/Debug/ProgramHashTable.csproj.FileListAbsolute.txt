@@ -1,0 +1,8 @@
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramHashTable\bin\Debug\ProgramHashTable.exe.config
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramHashTable\bin\Debug\ProgramHashTable.exe
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramHashTable\bin\Debug\ProgramHashTable.pdb
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramHashTable\obj\Debug\ProgramHashTable.csproj.AssemblyReference.cache
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramHashTable\obj\Debug\ProgramHashTable.csproj.SuggestedBindingRedirects.cache
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramHashTable\obj\Debug\ProgramHashTable.csproj.CoreCompileInputs.cache
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramHashTable\obj\Debug\ProgramHashTable.exe
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramHashTable\obj\Debug\ProgramHashTable.pdb
