@@ -1,0 +1,8 @@
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramStack\bin\Debug\ProgramStack.exe.config
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramStack\bin\Debug\ProgramStack.exe
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramStack\bin\Debug\ProgramStack.pdb
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramStack\obj\Debug\ProgramStack.csproj.AssemblyReference.cache
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramStack\obj\Debug\ProgramStack.csproj.SuggestedBindingRedirects.cache
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramStack\obj\Debug\ProgramStack.csproj.CoreCompileInputs.cache
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramStack\obj\Debug\ProgramStack.exe
+C:\KERJA\LearnBasic\LearnFromYoutube\ProgramStack\obj\Debug\ProgramStack.pdb
